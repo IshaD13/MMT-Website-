@@ -1,0 +1,201 @@
+#jumbotron{
+    background-image: radial-gradient(#78A3FF, #395AB8);
+    border-style:ridge;
+    border-color: darkblue;
+    border-width: thin;
+}
+
+#jumtitle{
+    text-align: center;
+    color: azure;
+}
+
+#jumtext{
+    text-align: center;
+    color: #C5CFEB;
+}
+
+body {
+    background-image: radial-gradient(#779CE1, #5A7EC0);
+}
+
+#bc{
+    background-image: radial-gradient(#1818D5, black)
+}
+
+.h1methadone{
+    text-align-last: center;
+    color: aliceblue;
+    padding-top: 20px;
+    padding-bottom: 3px;
+}
+
+.divinfo{
+    background: rgba(17, 39, 98, 0.17);
+}
+
+#carouselExampleControls{
+    padding-bottom: 60px;
+}
+
+.info{
+    padding-left: 30px;
+    padding-top: 15px;
+    padding-bottom: 30px;
+    padding-right: 23px;
+    font-family: garamond;
+    color: #C5CFEB;
+}
+
+.card{
+    background-color: #849BDA;
+}
+
+.card-group{
+    padding-top: 40px;
+}
+
+
+.card-image-top{
+    max-width: 200px;
+}
+
+.breadcrumb-item{
+    font-size: 20px
+}
+
+#headertext{
+    text-align: center;
+    font-family: fantasy;
+    font-size: 60px;
+    color: #C5CFEB;
+}
+
+.header{
+    padding-top: 35px;
+    padding-bottom: 25px;
+    background-color: #3E5EB8;
+}
+
+.carousel-item{
+    border-style: ridge;
+    border-width: thin;
+    border-color: darkslateblue;
+}
+
+.card-title{
+    font-weight: bold;
+    font-size: 25px;
+    color: white;
+}
+
+.card-text{
+    color: aliceblue;
+}
+
+
+.table{
+    background-color: rgba(57, 81, 187, 0.20);
+}
+
+.header{
+    margin-bottom: 50px;
+}
+
+#methadonemeaning{
+    margin-bottom: 25px;
+}
+
+#hk-image{
+    max-width: 100%;
+    margin-bottom: 50px;
+}
+
+#methadone-graph{
+    max-width: 450px;
+    margin-right: 17px;
+    margin-top: 5px;
+    margin-left: 20px;
+}
+
+#methadone-pill{
+    width: 47%;
+    padding-right: 35px;
+    padding-left: 10px;
+    padding-top: 15px;
+    margin-bottom: 8px;
+}
+
+#drawbacksinfo{
+    background: rgba(17, 39, 98, 0.17);
+    padding-top: 25px;
+    margin-bottom: 50px;
+    padding-bottom: 25px;
+}
+
+.para{
+    margin-left: 20px;
+    color: azure;
+    font-size: 22px;
+    margin-right: 20px;
+    align-items: center
+}
+
+p{
+    font-family: average;
+}
+
+#methadone-board{
+    width: 42%;
+    margin-right: 30px;
+
+}
+
+#footnote{
+    margin-left: 30px;
+    color: #C5CFEB;
+    margin-bottom: 50px;
+    font-weight: 300;
+}
+
+#methadone-conclusion{
+    width: 100%;
+    margin-right: 30px;
+    padding-bottom: 30px;
+}
+
+.card-body, .card-header{
+    text-align: center;
+}
+
+#cards{
+    margin-right: 35px;
+    margin-bottom: 50px;
+    margin-top: 25px;
+}
+
+#drawbacksinfo1{
+    background: rgba(17, 39, 98, 0.17);
+    padding-top: 25px;
+    margin-bottom: 50px;
+    padding-bottom: 25px;
+    margin-left: 35px;
+}
+
+#cards-div{
+}
+
+.card-body{
+    background-color: #2E4D9E;
+}
+
+.card-header{
+    font-size: 1.7vw;
+}
+
+#h1methadone2{
+    padding-left: 20px;
+    color: aliceblue;
+    padding-top: 60px;
+    padding-bottom: 25px;
+}
